@@ -32,8 +32,10 @@ Spamtraps have vulnerabilities. If you rely on this tool for fully automated spa
 
 ## TODO - If you want to help:
 
+* CRITICAL: implement RFC 2047 decoding and better sender address determination
 * Implement POP3 (well, yes, this is an inhouse solution and we use imap!)
 * Fix and implement all that is documented in-code
 * implement config file
 * self-domain detection [good when an account gets taken]
+
 
