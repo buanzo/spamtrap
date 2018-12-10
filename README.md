@@ -14,7 +14,7 @@ your organization.
 
 ## Features
 
-* IMAP/POP3 to download unwanted email from spamtrap-account
+* IMAP to download unwanted email from spamtrap-account
 * SMTP to forward unwanted emails to a third party service (RFC822 attach)
 * Cisco IronPort integration (updates a dictionary on any number of SSH-authenticated IronPort servers, for blacklisting purposes)
 * SpamAssassin integration (not really used, but the python3 module is quite useful so I just upload it here!)
@@ -25,3 +25,10 @@ your organization.
 2. Execute via cron or else
 3. ????
 4. Profit!
+
+
+## TODO - If you want to help:
+
+* Implement POP3 (well, yes, this is an inhouse solution and we use imap!)
+* Fix and implement all that is documented in-code
+* implement config file
