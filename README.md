@@ -26,9 +26,14 @@ your organization.
 3. ????
 4. Profit!
 
+## IMPORTANT
+
+Spamtraps have vulnerabilities. If you rely on this tool for fully automated spamtrapping, YOU WILL SUFFER. Your organization will suffer, etc, etc, etc. This *needs* human intervention.
 
 ## TODO - If you want to help:
 
 * Implement POP3 (well, yes, this is an inhouse solution and we use imap!)
 * Fix and implement all that is documented in-code
 * implement config file
+* self-domain detection [good when an account gets taken]
+
